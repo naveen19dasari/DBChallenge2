@@ -1,1 +1,4 @@
-# DBChallenge2
+-->Implemented separate classes for controller,service and Repository  to the fundtransfer.
+-->On successful transaction, the notification will be triggered to the particular users.
+-->When the accountId is not present ,handling the exception. 
+-->written dto classes for the fundtransfer
